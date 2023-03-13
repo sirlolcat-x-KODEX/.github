@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-Experimental-blue?style=for-the-badge" alt="Status">
   <a href="https://discord.gg/u4QndZEkkm" target="_blank"><img src="https://img.shields.io/discord/1083286097141969007?label=Chat%20&logo=discord&style=for-the-badge" alt="Discord Server Badge"></a>
-  <img src="https://img.shields.io/keybase/pgp/sirlolcat?style=for-the-badge" alt="PGP Key">
+  <a href="https://gist.github.com/sirlolcat/cc274ecaf1cfef823e90eb5db7f9dae2" target="_blank"><img src="https://img.shields.io/badge/PGP-F767397D76DBB79B-lightgrey?style=for-the-badge" alt="PGP Key"></a>
 </p>
 
 # sirlolcat x CODEX
